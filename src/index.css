@@ -47,7 +47,7 @@ All colors MUST be HSL.
     --rose-muted: 340 10% 45%;
     
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(var(--rose-primary)), hsl(340 30% 85%));
+    --gradient-hero: linear-gradient(135deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
     --gradient-accent: linear-gradient(90deg, hsl(var(--rose-accent)), hsl(340 35% 80%));
     --gradient-subtle: linear-gradient(180deg, hsl(var(--background)), hsl(var(--rose-light)));
     
